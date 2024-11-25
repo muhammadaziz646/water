@@ -1,0 +1,36 @@
+
+<svg width="1440" height="505" viewBox="0 0 1440 505" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_1_20420" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="505">
+<rect width="1440" height="505" fill="#121212"/>
+</mask>
+<g mask="url(#mask0_1_20420)">
+<circle cx="720" cy="874" r="739" fill="#121212"/>
+<g filter="url(#filter0_f_1_20420)">
+<circle cx="720" cy="874" r="739" fill="#121212"/>
+<circle cx="720" cy="874" r="740.287" stroke="#C4D8F7" stroke-width="2.57491"/>
+</g>
+<g filter="url(#filter1_df_1_20420)">
+<circle cx="720" cy="874" r="739" fill="#121212"/>
+<circle cx="720" cy="874" r="742" stroke="white" stroke-width="6"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_1_20420" x="-39.5138" y="114.487" width="1519.03" height="1519.03" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="8.96928" result="effect1_foregroundBlur_1_20420"/>
+</filter>
+<filter id="filter1_df_1_20420" x="-89.9315" y="0.554012" width="1621.58" height="1677.15" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="10" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_1_20420"/>
+<feOffset dx="0.858304" dy="-62.6562"/>
+<feGaussianBlur stdDeviation="27.8949"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.492733 0 0 0 0 0.611861 0 0 0 0 0.91819 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1_20420"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1_20420" result="shape"/>
+<feGaussianBlur stdDeviation="29.35" result="effect2_foregroundBlur_1_20420"/>
+</filter>
+</defs>
+</svg>
